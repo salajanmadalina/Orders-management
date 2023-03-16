@@ -1,0 +1,36 @@
+BILL 1
+ID:1
+Client ID:2
+Produs ID:2
+Cantitate:3
+
+BILL 2
+ID:5
+Client ID:1
+Produs ID:2
+Cantitate:15
+
+BILL 3
+ID:8
+Client ID:6
+Produs ID:2
+Cantitate:10
+
+BILL 4
+ID:8
+Client ID:3
+Produs ID:3
+Cantitate:10
+
+BILL 5
+ID:9
+Client ID:1
+Produs ID:3
+Cantitate:10
+
+BILL 6
+ID:9
+Client ID:7
+Produs ID:1
+Cantitate:3
+
